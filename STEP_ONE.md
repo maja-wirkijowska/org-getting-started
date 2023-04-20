@@ -4,7 +4,7 @@
 ### You can follow the simplified instructions below, or scroll down to the bottom of the page for links to the official GitHub instructions.
 
 ## Simplified instructions:
-1. 
+  to be added later
 
 ## Official GitHub Tutorials
 1. [Checking for existing SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
